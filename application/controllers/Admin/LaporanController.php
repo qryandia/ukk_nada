@@ -23,7 +23,7 @@ class LaporanController extends CI_Controller {
 		$this->load->view('_part/backend_head', $data);
 		$this->load->view('_part/backend_sidebar_v');
 		$this->load->view('_part/backend_topbar_v');
-		$this->load->view('admin/generate_laporan');
+		$this->load->view('_part/unduh_laporan');
 		$this->load->view('_part/backend_footer_v');
 		$this->load->view('_part/backend_foot');
 	}

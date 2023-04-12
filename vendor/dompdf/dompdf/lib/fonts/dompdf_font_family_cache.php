@@ -78,11 +78,11 @@
     'normal' => $fontDir . '/DejaVuSerif',
   ),
   'font awesome 5 brands' => array(
-    'normal' => $fontDir . '/font-awesome-5-brands-normal_1c3041c7bbcfed47bb43aab165520eca',
+    'normal' => $fontDir . '/font-awesome-5-brands-normal_11901160336afb15185572cc9da20053',
   ),
   'font awesome 5 free' => array(
-    'normal' => $fontDir . '/font-awesome-5-free-normal_97bc7c5c818b3cdda7bf15ec5336aa53',
-    '900' => $fontDir . '/font-awesome-5-free-900_a08ab83565c4de5d79d59aedcd3aa57b',
+    'normal' => $fontDir . '/font-awesome-5-free-normal_b468292c6e4478dbb09db940811c28c3',
+    '900' => $fontDir . '/font-awesome-5-free-900_730be8002670f38c71c2be5182ec2055',
   ),
   'lora' => array(
     'bold' => $fontDir . '/lora-bold_5c4f3953864918999edeab78c9a26d74',
